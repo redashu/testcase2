@@ -3,7 +3,10 @@
 def  hello():
     print("test case 2 start")
     print("after 2nd commit i wiil execute myself")
+    for  i in range(10):
+        print(10*i)
 
 
-hello()
+if __name__ == "__main__" :
+    hello()
 
