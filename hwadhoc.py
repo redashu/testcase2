@@ -5,7 +5,7 @@ def  hello():
     print("after 2nd for timer commit i wiil execute myself")
     print("Going  forward with cloud")
     for  i in range(10):
-        print(10*i)
+        print("@@@@@@@@"*10*i)
 
 
 if __name__ == "__main__" :
